@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { HiMail, HiPhone, HiDownload } from "react-icons/hi";
+import { HiMail, HiDownload } from "react-icons/hi";
 import { FaGithub, FaGraduationCap, FaLinkedinIn } from "react-icons/fa";
 
 export default function Hero() {
@@ -74,13 +74,6 @@ export default function Hero() {
               aria-label="Email"
             >
               <HiMail className="w-5 h-5" />
-            </a>
-            <a
-              href="tel:+13012754686"
-              className="text-gray-400 hover:text-primary-400 transition-colors"
-              aria-label="Phone"
-            >
-              <HiPhone className="w-5 h-5" />
             </a>
             <a
               href="https://github.com/fzhang15"

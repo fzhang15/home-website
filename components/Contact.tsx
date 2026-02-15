@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { HiMail, HiPhone } from "react-icons/hi";
+import { HiMail } from "react-icons/hi";
 import { FaGithub, FaGraduationCap, FaLinkedinIn } from "react-icons/fa";
 
 export default function Contact() {
@@ -35,21 +35,6 @@ export default function Contact() {
               <p className="text-xs text-gray-500 dark:text-gray-400">Email</p>
               <p className="text-sm font-medium text-gray-900 dark:text-white">
                 zhangfeng0528@gmail.com
-              </p>
-            </div>
-          </a>
-
-          <a
-            href="tel:+13012754686"
-            className="inline-flex items-center gap-3 px-6 py-4 glass-card hover:shadow-lg hover:shadow-primary-500/10 transition-all group"
-          >
-            <div className="w-10 h-10 rounded-xl bg-primary-500/10 flex items-center justify-center group-hover:bg-primary-500/20 transition-colors">
-              <HiPhone className="w-5 h-5 text-primary-500" />
-            </div>
-            <div className="text-left">
-              <p className="text-xs text-gray-500 dark:text-gray-400">Phone</p>
-              <p className="text-sm font-medium text-gray-900 dark:text-white">
-                (301) 275-4686
               </p>
             </div>
           </a>
