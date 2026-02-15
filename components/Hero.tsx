@@ -40,7 +40,7 @@ export default function Hero() {
           </p>
 
           <p className="text-sm text-gray-500 dark:text-gray-500 mb-10">
-            Sr. Applied Scientist @ Amazon &middot; 2800+ Citations &middot;
+            Sr. Applied Scientist @ Amazon &middot; 3,374+ Citations &middot;
             Multiple Patents
           </p>
 

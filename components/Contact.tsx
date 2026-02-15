@@ -83,7 +83,7 @@ export default function Contact() {
             <div className="text-left">
               <p className="text-xs text-gray-500 dark:text-gray-400">Google Scholar</p>
               <p className="text-sm font-medium text-gray-900 dark:text-white">
-                2800+ Citations
+                3,374+ Citations
               </p>
             </div>
           </a>

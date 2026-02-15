@@ -20,7 +20,7 @@ const highlights = [
     icon: HiAcademicCap,
     title: "Research Impact",
     description:
-      "2800+ Google Scholar citations, multiple patents, and recognized with best paper awards.",
+      "3,374+ Google Scholar citations, h-index 34, 60+ patents, and recognized with best paper awards.",
   },
 ];
 
